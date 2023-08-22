@@ -24,7 +24,7 @@ Repositorio 2023 del Equipo Hola Mundo - UTN San Rafael
 
   <table align="center">
 	<tr>
-		<th>NÚMERO DE SEMANA</th>
+		<th>NÚMERO DE CLASE</th>
 		<th>SCRUM MASTER</th>
     <th>STATUS</th>
   </tr>
