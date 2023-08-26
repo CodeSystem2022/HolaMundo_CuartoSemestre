@@ -27,28 +27,28 @@ const productos = [
         productName: "Proteico de vegetales",
         price: 2800,
         quantity: 1,
-        img: "/client/media/Proteico_de_vegetales.jpg",
+        img: "/client/media/Proteico_vegetales.jpg",
     },
     {
         id: 5,
         productName: "Sushi con degustación de vinos (para compartir)",
         price: 3200,
         quantity: 1,
-        img: "/client/media/Sushi_degustación_con_vinos.jpg",
+        img: "/client/media/Sushi_degustación_vinos.jpg",
     },
     {
         id: 6,
         productName: "Sushi y vino",
         price: 2800,
         quantity: 1,
-        img: "/client/sushi_vinos.jpg",
+        img: "/client/media/sushi_vino.jpg",
     },
     {
         id: 7,
         productName: "Mix vegetales y queso",
         price: 2100,
         quantity: 1,
-        img: "/client/media/Mix_vegetales_y_queso.jpg",
+        img: "/client/media/Mix_vegetales_queso.jpg",
     },
     {
         id: 8,
@@ -57,11 +57,5 @@ const productos = [
         quantity: 1,
         img: "/client/media/Ensalada_proteica_con_frutosRojos_o_piña.jpg",
     },
- {
-        id: 9,
-        productName: "Mix vegetales y queso (grande)",
-        price: 2400,
-        quantity: 1,
-        img: "/client/media/Mix_vegetales_queso.jpg",
-    },
+
 ];
