@@ -28,11 +28,11 @@ Repositorio 2023 del Equipo Hola Mundo - UTN San Rafael
 		<th>SCRUM MASTER</th>
     <th>STATUS</th>
   </tr>
-	<tr>
-		<td align="center">1°</td>
-		<td>Gustavo Ortiz</td>
-     <th> </th>
-	</tr>
+   	<tr>
+		<th align="center">1°</th>
+		<th>Gustavo Ortiz</th>
+		<th> 🟢 </th>
+   	</tr>
 	<tr>
 		<td align="center">2°</td>
 		<td>Francisco Rodeles</td>
