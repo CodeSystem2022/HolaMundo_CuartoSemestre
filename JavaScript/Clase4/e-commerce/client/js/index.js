@@ -1,3 +1,5 @@
+//Leonardo Montiel
+
 const shopContent = document.getElementById("shopContent");
 const cart =[];//Este es nuestro carrito, un array vacio
 
