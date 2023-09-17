@@ -177,4 +177,4 @@ const displayCartCounter = () => {
     }
 };
 
-// Ver video 7 del e commerce - mercado pago 
+
