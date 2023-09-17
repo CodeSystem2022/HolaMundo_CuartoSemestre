@@ -46,6 +46,6 @@ Repositorio 2023 del Equipo Hola Mundo - UTN San Rafael
         <tr>
 		<td align="center">4°</td>
 		<td>Leonardo Montiel</td>
-    <th> </th>   
+                <th> 🟢 </th>   
 	</tr>
 </table>
