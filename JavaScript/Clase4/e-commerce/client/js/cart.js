@@ -1,3 +1,5 @@
+//Leonardo Montiel
+//Gustavo Ortiz
 const modalContainer = document.getElementById("modal-container");
 const modalOverlay = document.getElementById("modal-overlay");
 
@@ -175,4 +177,4 @@ const displayCartCounter = () => {
     }
 };
 
-// Ver video 7 del e commerce - mercado pago 
+

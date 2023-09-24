@@ -1,3 +1,5 @@
+//Leonardo Montiel
+//Gustavo Ortiz
 const productos = [
     {
         id: 1,
