@@ -12,9 +12,9 @@
 	<artifactId>tienda_libros</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tienda_libros</name>
-	<description>Sistema Tienda de LIbros</description>
+	<description>Tienda de libros</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
