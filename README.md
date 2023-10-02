@@ -56,7 +56,7 @@ Repositorio 2023 del Equipo Hola Mundo - UTN San Rafael
 	<tr>
 		<td align="center">6°</td>
 		<td>Francisco Rodeles</td>
-                <th>   </th>
+                <th> 🟢 </th>
 	</tr>
 	<tr>
 		<td align="center" >7°</td>
