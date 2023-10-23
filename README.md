@@ -68,7 +68,26 @@ Repositorio 2023 del Equipo Hola Mundo - UTN San Rafael
 		<td>Leonardo Montiel</td>
                 <th> 🟢 </th>   
 	</tr>
-
+<tr>
+		<th align="center">5°</th>
+		<th>Gustavo Ortiz</th>
+		<th> 🟢 </th>
+   	</tr>
+	<tr>
+		<td align="center">6°</td>
+		<td>Francisco Rodeles</td>
+                <th>   </th>
+	</tr>
+	<tr>
+		<td align="center" >7°</td>
+		<td>María Rosa Morales</td>
+                <th>   </th>
+	</tr>
+        <tr>
+		<td align="center">8°</td>
+		<td>Leonardo Montiel</td>
+                <th>   </th>   
+	</tr>
    
 </table>
 		
