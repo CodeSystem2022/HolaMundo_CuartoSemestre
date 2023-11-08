@@ -76,12 +76,12 @@ Repositorio 2023 del Equipo Hola Mundo - UTN San Rafael
 	<tr>
 		<td align="center">10°</td>
 		<td>Francisco Rodeles</td>
-                <th>   </th>
+                <th> 🟢  </th>
 	</tr>
 	<tr>
 		<td align="center" >11°</td>
 		<td>María Rosa Morales</td>
-                <th>   </th>
+                <th> En curso  </th>
 	</tr>
         <tr>
 		<td align="center">12°</td>
