@@ -81,7 +81,7 @@ Repositorio 2023 del Equipo Hola Mundo - UTN San Rafael
 	<tr>
 		<td align="center" >11°</td>
 		<td>María Rosa Morales</td>
-                <th> En curso  </th>
+                <th> 🟢 </th>
 	
    
 </table>
